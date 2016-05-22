@@ -26,3 +26,4 @@ This is a simple plugin to registry the names used by players and access them ea
 
 # Support 
 - AlliedModders: https://forums.alliedmods.net/showthread.php?p=2420873
+- TecnoHardClan: http://www.tecnohardclan.com/forum/index.php/topic/5196-any-abner-namelog/
