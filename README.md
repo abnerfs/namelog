@@ -1,5 +1,7 @@
 # [ANY] Name log
 
+![Downloads](https://img.shields.io/github/downloads/abnerfs/namelog/total) ![Last commit](https://img.shields.io/github/last-commit/abnerfs/namelog "Last commit") ![Open issues](https://img.shields.io/github/issues/abnerfs/namelog "Open Issues") ![Closed issues](https://img.shields.io/github/issues-closed/abnerfs/namelog "Closed Issues") ![Size](https://img.shields.io/github/repo-size/abnerfs/dontpad-api "Size")
+
 This is a simple plugin to registry the names used by players and access them easily via a menu.
 
 
